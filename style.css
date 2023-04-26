@@ -1,0 +1,26 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+.btn-info:hover{
+    background-color: orangered;
+}
+
+canvas
+{
+    animation-name: lol;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes lol
+{
+    5% {box-shadow: 1px 1px 38px rgb(255, 144, 125)};
+    100% {box-shadow:1px 1px 38px rgb(255, 44, 2)};
+}
+
+h1
+{
+   color:rgb(123, 63, 53)
+}
