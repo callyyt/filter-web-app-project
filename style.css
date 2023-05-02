@@ -16,11 +16,20 @@ canvas
 
 @keyframes lol
 {
-    5% {box-shadow: 1px 1px 38px rgb(255, 144, 125)};
-    100% {box-shadow:1px 1px 38px rgb(255, 44, 2)};
+    20% {box-shadow: 1px 1px 38px rgb(255, 68, 93);}
+    40% {box-shadow: 1px 1px 38px rgb(167, 54, 54);}
+    50% {box-shadow: 1px 1px 38px rgb(222, 66, 89);}
+    60% {box-shadow: 1px 1px 38px rgb(255, 59, 89);}
 }
 
 h1
 {
    color:rgb(123, 63, 53)
+}
+
+body
+{
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
